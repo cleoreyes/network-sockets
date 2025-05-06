@@ -1,6 +1,6 @@
-# Network Sockets Project (Based on CSE 461 - Project 1)
+# Network Sockets Project
 
-This project explores network programming using the Sockets API by implementing a client and server application that communicate over a custom protocol using both UDP and TCP. It is based on the requirements of a university course project (CSE 461 at the University of Washington).
+This project explores network programming using the Sockets API by implementing a client and server application that communicate over a custom protocol using both UDP and TCP.
 
 ## Project Overview
 
