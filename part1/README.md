@@ -1,4 +1,4 @@
-## Client
+# Client
 
 ### Instructions on how to compile and run code
 
