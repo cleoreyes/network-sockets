@@ -1,12 +1,4 @@
-# CSE 461 Project 1
-## Part 1
-
-### Group Members (name, UWNetID)
-```
-John Lu, jlu29
-Hazel Z, hazelzh7
-Cleo Reyes, creyes25
-```
+## Client
 
 ### Instructions on how to compile and run code
 
