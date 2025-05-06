@@ -1,6 +1,5 @@
 import socket
 import struct
-# import struct
 from packet_struct import Packet
 import sys
 
