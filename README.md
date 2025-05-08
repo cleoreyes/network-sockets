@@ -1,6 +1,6 @@
 # Network Sockets Project
 
-This project explores network programming using the Sockets API by implementing a client and server application that communicate over a custom protocol using both UDP and TCP.
+This project explores network programming using the Sockets API by implementing a client and server application that communicate over a custom protocol using both UDP and TCP. This was a project for my Computer Networks course from the Paul G. Allen School of Computer Science and Engineering at the University of Washington.
 
 ## Project Overview
 
